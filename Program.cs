@@ -16,7 +16,10 @@ namespace GithubTest
             //ArrayReverseClient.Process();
 
             //Array shift Client
-            ArrayShiftClient.Process();
+            //ArrayShiftClient.Process();
+
+            //Finding duplicate client
+            DuplicateClient.Process();
             Console.Read();
         }
 
